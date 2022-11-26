@@ -1,6 +1,6 @@
 # Meet your first teammate!
 
-
+![1_diSA4D727PLlywx2ub5dEw](https://user-images.githubusercontent.com/78906545/204103315-de88d4ee-cff5-4a8c-af03-a8db0b684a84.png)
 
 ## Learning objectives
 
