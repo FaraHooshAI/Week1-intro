@@ -48,9 +48,6 @@ Therefore the `main` branch should always be stable code that actually works and
 
 *NOTE: The `main` branch is a rather new name. Previously it was called the `master` branch. GitHub [has changed it for good reasons](https://www.techrepublic.com/article/github-to-replace-master-with-main-starting-in-october-what-developers-need-to-know/), but you can still see some references to the `master` in many articles. Do not let that confuse you.*
 
-### Development branch
-Sometimes you want to experiment with a code which you have on your main branch but not want to save it to main branch. In this case, you can create another branch where you can experiment with ease - and if you are satisfied, you can merge the experiment to the main branch later.
-
 ### Feature branches
 
 Before you start working on a new feature, you should create a new `feature` branch that is based on the `main` branch. You will use this branch for all your work.
